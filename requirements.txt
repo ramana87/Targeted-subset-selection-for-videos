@@ -1,0 +1,7 @@
+torch
+numpy
+opencv-python
+Pillow
+tqdm
+submodlib
+git+https://github.com/openai/CLIP.git
